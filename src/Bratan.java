@@ -1,3 +1,1 @@
-public class Bratan {
-
-}
+public class Bratan {}
